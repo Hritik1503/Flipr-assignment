@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Flipr-assignment/static/css/main.b1d7ec7b.css",
+    "main.js": "/Flipr-assignment/static/js/main.12299817.js",
+    "static/js/787.69dd54e2.chunk.js": "/Flipr-assignment/static/js/787.69dd54e2.chunk.js",
+    "index.html": "/Flipr-assignment/index.html",
+    "main.b1d7ec7b.css.map": "/Flipr-assignment/static/css/main.b1d7ec7b.css.map",
+    "main.12299817.js.map": "/Flipr-assignment/static/js/main.12299817.js.map",
+    "787.69dd54e2.chunk.js.map": "/Flipr-assignment/static/js/787.69dd54e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.12299817.js"
+  ]
+}
